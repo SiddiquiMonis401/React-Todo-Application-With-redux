@@ -9,13 +9,7 @@ function App() {
   console.log(item)
   return (
     <div className="App">
-      <button>
-        +
-      </button>
-      {item} 
-      <button>
-        -
-        </button>    
+          
       
     </div>
   );
